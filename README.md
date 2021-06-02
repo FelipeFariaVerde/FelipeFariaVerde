@@ -19,4 +19,6 @@ Destaco aqui, alguns projetos que venho realizando. 💡🌱
   <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
 </p>
 
+All My Social Media
+
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/felipe-faria-verderamis-3b9b10202/)
