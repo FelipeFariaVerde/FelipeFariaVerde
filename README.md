@@ -6,8 +6,6 @@ Reconheço a **importância** da área de tecnologia, sendo assim, decidi aprimo
 
 Destaco aqui, alguns projetos que venho realizando. 💡🌱
 
-<img align='right' src="https://cdn.dribbble.com/users/187497/screenshots/3820435/livechat-drib-15.gif" width="250">
-
 <br>
 
 #### Ability in ✏️ 
